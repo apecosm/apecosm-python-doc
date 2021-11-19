@@ -1,0 +1,5 @@
+_build
+generated
+*sh
+_static/example/ape_vertical_grid.pdf
+_static/example/ape_vertical_grid.svg
